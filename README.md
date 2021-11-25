@@ -24,6 +24,7 @@ At the initial start of the project, I expected I will get significant help and 
 	Develop a more robust data management application for employee including other features
 
 # Screenshots showing postman request/Data Persisting
+See Attached ReadMe file
  
  
  
@@ -35,6 +36,7 @@ At the initial start of the project, I expected I will get significant help and 
 
 
 # Screenshots of test results (Coverage report)
+See Attached ReadMe file
  
 
 
