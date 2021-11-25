@@ -13,7 +13,7 @@ At the initial start of the project, I expected I will get significant help and 
 	Jira project management board
 	Risk assessment
 
-#What didn’t go as planned?
+# What didn’t go as planned?
 	System Failure was required to restore my system
 	Springboot Application failed to initialise.
 	Struggled with identifying the right codes and various annotations for the project
