@@ -27,10 +27,6 @@ At the initial start of the project, I expected I will get significant help and 
 See Attached ReadMe file
  
  
- 
- 
- 
- 
 
 
 
@@ -38,8 +34,6 @@ See Attached ReadMe file
 # Screenshots of test results (Coverage report)
 See Attached ReadMe file
  
-
-
 
 
 
