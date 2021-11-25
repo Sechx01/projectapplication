@@ -30,9 +30,9 @@ public class EmployeeRepositoryTests {
     public void saveEmployeeTest(){
 
         Employee employee = Employee.builder()
-                .employeeFirstName("Chibueze")
-                .employeeLastName("Ogu")
-                .employeeEmailId("pthomas247@yahoo.com")
+                .employeeFirstName("Tiger")
+                .employeeLastName("Woods")
+                .employeeEmailId("tigerwoods@yahoo.com")
                 .build();
 
         employeeRepository.save(employee);

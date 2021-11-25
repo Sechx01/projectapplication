@@ -22,7 +22,7 @@ import java.util.List;
     //@ResponseEntity - Allows for the creation of HTTP responses using java objects.
 @CrossOrigin
 @RestController
-@RequestMapping("/api/v1/employees")
+@RequestMapping("/api/employee")
 public class EmployeeController {
 
     @Autowired
